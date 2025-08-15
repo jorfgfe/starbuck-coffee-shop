@@ -35,7 +35,7 @@ php artisan serve
 
 The app would be running on `http://localhost:8000`
 
-## 📚 API Endpoints
+## API Endpoints
 
 ### Products
 ```http
@@ -71,8 +71,6 @@ DELETE /api/v1/extras/{id}
 ```http
 POST   /api/v1/orders
 ```
-
-## 📝 Ejemplos de Uso
 
 ### Make a Category
 ```bash
@@ -120,7 +118,7 @@ curl -X POST http://localhost:8000/api/v1/orders \
   }'
 ```
 
-## 🧪 Run Tests
+##  Run Tests
 
 ### To run all tests
 ```bash
