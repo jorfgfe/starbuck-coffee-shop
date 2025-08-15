@@ -4,7 +4,7 @@ Test app for 25f.
 
 ## How to instal??
 
-### 1. Instalar dependencias
+### 1. Install dependencies.
 ```bash
 composer install
 ```
